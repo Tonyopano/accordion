@@ -1,2 +1,2 @@
 # accordion
-# This project most popular in interview projects
+ This project is common in interview projects.
